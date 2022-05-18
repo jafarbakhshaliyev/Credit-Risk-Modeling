@@ -1,4 +1,7 @@
 # Credit-Risk-Modeling
+<img width="735" alt="Screen Shot 2022-05-18 at 5 30 07 PM" src="https://user-images.githubusercontent.com/88124269/169166139-9eb7b8b6-f1c4-41e0-9820-85bb4d7c209b.png">
+
+
 I worked on the project for MaxDecisions Inc. in Richardson, TX, USA. The project is about exploring a small credit risk dataset and applying various advanced Machine Learning algorithms to predict the probability of default for applicants. 
 
 As part of EAD, I looked at some statistics information on each feature and plotted to see how the dataset is imbalanced. After analysis, I dropped the repeated columns, chose continuous numerical columns to scale using Standardization, and applied the oversampling technique to deal with imbalanced data.
